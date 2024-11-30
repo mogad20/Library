@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Book>
+<center><h1>All of Books</h1></center>
+
+<div class="row mb-4">
+    <center>
+        <div class="col-md-6">
+		<form class="d-flex" asp-action="Index">
+                <div class="input-group">
+                    <input name="searchString" class="form-control" type="text" placeholder="Search for Books.." aria-label="Search">
+                    <button class="btn btn-dark" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </form>
+        </div>
+    </center>
+        <div class="col-md-6 text-end">
+				<div class="btn-group">
+                                    <a asp-controller="Books"
+                                       asp-action="GetAddView"
+                                       class="btn btn-primary" title="Add">
+                                        <i class="fa-solid fa-plus"></i>
+                                    </a>
+
+                                    <a asp-controller="Books"
+                                       asp-action="GetDeleteView"
+                                       class="btn btn-danger" title="Delete">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                </div>
+            <a asp-action="GetListView" class="btn btn-secondary">Back To all Books</a>
+        </div>
+    </div>
+    <center>
+<div>
+	@foreach (var book in Model)
+	{
+
+        <div class="card d-inline-block text-center col-3 m-1">
+            <div class="card-body">
+                <img src="@book.ImagePath" style="object-fit: cover; width: 100%; height: 100%;" />
+            </div>
+            <div class="card-header">@book.Name</div>
+            <div class="card-footer">@book.statue</div>
+        </div>
+
+	
+	}
+</div>
+</center>
+<br />
+<br />
+<br />

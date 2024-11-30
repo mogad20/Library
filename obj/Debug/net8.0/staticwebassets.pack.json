@@ -1,0 +1,749 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Library.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Library.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\022b0661-8a94-4806-a9b4-c5e96182bde5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\022b0661-8a94-4806-a9b4-c5e96182bde5.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\02c99025-cca0-4947-b945-12b4d59839b1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\02c99025-cca0-4947-b945-12b4d59839b1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\0df9fc8b-fec9-4f7b-bf38-9c2a0c541f06.jpeg",
+      "PackagePath": "staticwebassets\\Images\\0df9fc8b-fec9-4f7b-bf38-9c2a0c541f06.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\0ed83902-e904-4040-894b-6581c68d0fae.jpeg",
+      "PackagePath": "staticwebassets\\Images\\0ed83902-e904-4040-894b-6581c68d0fae.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\12aea63c-10cd-48ab-bd45-17668d6c7e04.jpeg",
+      "PackagePath": "staticwebassets\\Images\\12aea63c-10cd-48ab-bd45-17668d6c7e04.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\1dffa021-8eff-4df2-a92c-2921f8c8496e.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1dffa021-8eff-4df2-a92c-2921f8c8496e.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\20057dab-df22-46fa-90ef-dc510728b118.jpeg",
+      "PackagePath": "staticwebassets\\Images\\20057dab-df22-46fa-90ef-dc510728b118.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\20a6f10f-7815-4403-a68c-55967fa21bca.webp",
+      "PackagePath": "staticwebassets\\Images\\20a6f10f-7815-4403-a68c-55967fa21bca.webp"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\213003db-23dd-4953-a134-da6ba5ff722b.jpg",
+      "PackagePath": "staticwebassets\\Images\\213003db-23dd-4953-a134-da6ba5ff722b.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\23bf2bf7-b84a-4754-922d-bb9102d0b887.jpg",
+      "PackagePath": "staticwebassets\\Images\\23bf2bf7-b84a-4754-922d-bb9102d0b887.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\28b024ea-e354-4725-ae77-6179c51f03da.jpeg",
+      "PackagePath": "staticwebassets\\Images\\28b024ea-e354-4725-ae77-6179c51f03da.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\29aa46a8-21c3-4bd6-951e-7fad9d7f8cfb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\29aa46a8-21c3-4bd6-951e-7fad9d7f8cfb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\2bf4a51d-617e-418a-90d1-eca7867c8eef.jpg",
+      "PackagePath": "staticwebassets\\Images\\2bf4a51d-617e-418a-90d1-eca7867c8eef.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\40e1a424-c942-400a-9f22-c8d11a94a9fb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\40e1a424-c942-400a-9f22-c8d11a94a9fb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\4683b290-90e0-4e84-af68-774e7db631f1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4683b290-90e0-4e84-af68-774e7db631f1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\4c71e7c6-399f-4ce1-90c2-e7aa7881bf9e.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c71e7c6-399f-4ce1-90c2-e7aa7881bf9e.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\4cf31898-595c-498f-91cc-dc51900193db.jpg",
+      "PackagePath": "staticwebassets\\Images\\4cf31898-595c-498f-91cc-dc51900193db.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\4e964cfc-d387-4320-8922-4309fc93d21f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4e964cfc-d387-4320-8922-4309fc93d21f.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\6de5c91c-76f3-4498-9fbe-05d0f7c0d7b9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6de5c91c-76f3-4498-9fbe-05d0f7c0d7b9.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\78183924-6826-44e9-b3a5-9dc088ccd50f.jpg",
+      "PackagePath": "staticwebassets\\Images\\78183924-6826-44e9-b3a5-9dc088ccd50f.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\7eee7399-f8fb-4957-be07-0fa7317771da.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7eee7399-f8fb-4957-be07-0fa7317771da.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\7f9ce6b6-858b-497d-ad40-19b53a38c278.png",
+      "PackagePath": "staticwebassets\\Images\\7f9ce6b6-858b-497d-ad40-19b53a38c278.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\8d074cdd-2a20-4f0f-9fe1-246ac2e383e7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8d074cdd-2a20-4f0f-9fe1-246ac2e383e7.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\992d3aa4-c051-40be-b2c9-b553d66b0b79.jpg",
+      "PackagePath": "staticwebassets\\Images\\992d3aa4-c051-40be-b2c9-b553d66b0b79.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\99febffc-7241-4c8d-9acf-a931a870a980.jpeg",
+      "PackagePath": "staticwebassets\\Images\\99febffc-7241-4c8d-9acf-a931a870a980.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\9e268f9e-7077-4523-953f-ebf82dafe3d6.jpg",
+      "PackagePath": "staticwebassets\\Images\\9e268f9e-7077-4523-953f-ebf82dafe3d6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\9f2d91d6-1066-411d-b126-d75d9c0e45f8.png",
+      "PackagePath": "staticwebassets\\Images\\9f2d91d6-1066-411d-b126-d75d9c0e45f8.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\a2223f38-3640-490f-a806-4b30db939efa.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2223f38-3640-490f-a806-4b30db939efa.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\b3686e78-aeef-4edf-b9c7-6eace1878530.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b3686e78-aeef-4edf-b9c7-6eace1878530.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\b6a123bd-5fae-4ac0-b74a-44461587e7e1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b6a123bd-5fae-4ac0-b74a-44461587e7e1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\c443914d-e34e-4ae4-bee9-b82c1ee746eb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c443914d-e34e-4ae4-bee9-b82c1ee746eb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\d1c1d942-1197-4c74-8aec-d8f064690bcc.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d1c1d942-1197-4c74-8aec-d8f064690bcc.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\d5952a4f-6720-408a-8b4e-7262be25c59b.jpg",
+      "PackagePath": "staticwebassets\\Images\\d5952a4f-6720-408a-8b4e-7262be25c59b.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\f7e0cf57-e6bd-4dd8-9b51-b0363dad867d.jpg",
+      "PackagePath": "staticwebassets\\Images\\f7e0cf57-e6bd-4dd8-9b51-b0363dad867d.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\f82ed8b7-55bd-4884-a55b-c89ff78f836f.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f82ed8b7-55bd-4884-a55b-c89ff78f836f.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\flat-university-landing-page.png",
+      "PackagePath": "staticwebassets\\Images\\flat-university-landing-page.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\Images\\flat-world-book-day-landing-page-template.png",
+      "PackagePath": "staticwebassets\\Images\\flat-world-book-day-landing-page-template.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Advantages-of-Online-Examination-Software-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\Advantages-of-Online-Examination-Software-removebg-preview (1).png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\022b0661-8a94-4806-a9b4-c5e96182bde5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\022b0661-8a94-4806-a9b4-c5e96182bde5.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\02c99025-cca0-4947-b945-12b4d59839b1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\02c99025-cca0-4947-b945-12b4d59839b1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\0df9fc8b-fec9-4f7b-bf38-9c2a0c541f06.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\0df9fc8b-fec9-4f7b-bf38-9c2a0c541f06.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\0ed83902-e904-4040-894b-6581c68d0fae.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\0ed83902-e904-4040-894b-6581c68d0fae.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\12aea63c-10cd-48ab-bd45-17668d6c7e04.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\12aea63c-10cd-48ab-bd45-17668d6c7e04.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\1dffa021-8eff-4df2-a92c-2921f8c8496e.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\1dffa021-8eff-4df2-a92c-2921f8c8496e.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\20057dab-df22-46fa-90ef-dc510728b118.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\20057dab-df22-46fa-90ef-dc510728b118.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\20a6f10f-7815-4403-a68c-55967fa21bca.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\20a6f10f-7815-4403-a68c-55967fa21bca.webp"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\213003db-23dd-4953-a134-da6ba5ff722b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\213003db-23dd-4953-a134-da6ba5ff722b.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\23bf2bf7-b84a-4754-922d-bb9102d0b887.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\23bf2bf7-b84a-4754-922d-bb9102d0b887.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\28b024ea-e354-4725-ae77-6179c51f03da.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\28b024ea-e354-4725-ae77-6179c51f03da.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\29aa46a8-21c3-4bd6-951e-7fad9d7f8cfb.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\29aa46a8-21c3-4bd6-951e-7fad9d7f8cfb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\2bf4a51d-617e-418a-90d1-eca7867c8eef.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\2bf4a51d-617e-418a-90d1-eca7867c8eef.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\40e1a424-c942-400a-9f22-c8d11a94a9fb.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\40e1a424-c942-400a-9f22-c8d11a94a9fb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\4683b290-90e0-4e84-af68-774e7db631f1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\4683b290-90e0-4e84-af68-774e7db631f1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\4c71e7c6-399f-4ce1-90c2-e7aa7881bf9e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\4c71e7c6-399f-4ce1-90c2-e7aa7881bf9e.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\4cf31898-595c-498f-91cc-dc51900193db.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\4cf31898-595c-498f-91cc-dc51900193db.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\4e964cfc-d387-4320-8922-4309fc93d21f.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\4e964cfc-d387-4320-8922-4309fc93d21f.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\6de5c91c-76f3-4498-9fbe-05d0f7c0d7b9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\6de5c91c-76f3-4498-9fbe-05d0f7c0d7b9.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\78183924-6826-44e9-b3a5-9dc088ccd50f.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\78183924-6826-44e9-b3a5-9dc088ccd50f.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\7eee7399-f8fb-4957-be07-0fa7317771da.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\7eee7399-f8fb-4957-be07-0fa7317771da.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\7f9ce6b6-858b-497d-ad40-19b53a38c278.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\7f9ce6b6-858b-497d-ad40-19b53a38c278.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\8d074cdd-2a20-4f0f-9fe1-246ac2e383e7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\8d074cdd-2a20-4f0f-9fe1-246ac2e383e7.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\992d3aa4-c051-40be-b2c9-b553d66b0b79.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\992d3aa4-c051-40be-b2c9-b553d66b0b79.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\99febffc-7241-4c8d-9acf-a931a870a980.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\99febffc-7241-4c8d-9acf-a931a870a980.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\9e268f9e-7077-4523-953f-ebf82dafe3d6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\9e268f9e-7077-4523-953f-ebf82dafe3d6.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\9f2d91d6-1066-411d-b126-d75d9c0e45f8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\9f2d91d6-1066-411d-b126-d75d9c0e45f8.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\a2223f38-3640-490f-a806-4b30db939efa.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\a2223f38-3640-490f-a806-4b30db939efa.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\b3686e78-aeef-4edf-b9c7-6eace1878530.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\b3686e78-aeef-4edf-b9c7-6eace1878530.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\b6a123bd-5fae-4ac0-b74a-44461587e7e1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\b6a123bd-5fae-4ac0-b74a-44461587e7e1.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\c443914d-e34e-4ae4-bee9-b82c1ee746eb.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\c443914d-e34e-4ae4-bee9-b82c1ee746eb.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\d1c1d942-1197-4c74-8aec-d8f064690bcc.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\d1c1d942-1197-4c74-8aec-d8f064690bcc.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\d5952a4f-6720-408a-8b4e-7262be25c59b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\d5952a4f-6720-408a-8b4e-7262be25c59b.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\f7e0cf57-e6bd-4dd8-9b51-b0363dad867d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\f7e0cf57-e6bd-4dd8-9b51-b0363dad867d.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\f82ed8b7-55bd-4884-a55b-c89ff78f836f.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\f82ed8b7-55bd-4884-a55b-c89ff78f836f.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\flat-university-landing-page.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\flat-university-landing-page.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\Images\\flat-world-book-day-landing-page-template.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Images\\flat-world-book-day-landing-page-template.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\ebook_5687949.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ebook_5687949.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\features.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\features.svg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\footer-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\page-title-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\page-title-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\app-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\app-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\books-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\books-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\portfolio\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\services.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\stats-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\stats-bg.png"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\team\\1687026076727.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1687026076727.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\team\\photo_2024-10-22_17-03-38.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\photo_2024-10-22_17-03-38.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "D:\\Projects\\LibraryWithFrontend\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Library.props",
+      "PackagePath": "build\\Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Library.props",
+      "PackagePath": "buildMultiTargeting\\Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Library.props",
+      "PackagePath": "buildTransitive\\Library.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

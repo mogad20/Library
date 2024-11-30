@@ -1,0 +1,56 @@
+﻿@model Account
+
+<div class="row">
+    <form method="post" asp-controller="Accounts" asp-action="EditCurrent"
+          class="col-4" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly"  class="text-danger"></div>
+
+        <input type="hidden" asp-for="Id" />
+
+        <div>
+            <label class="form-label">FirstName</label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">LastName</label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">Address</label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label class="form-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">ReEmail</label>
+            <input asp-for="ReEmail" class="form-control" />
+            <span asp-validation-for="ReEmail" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label class="form-label">Password</label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">RePassword</label>
+            <input asp-for="RePassword" class="form-control" />
+            <span asp-validation-for="RePassword" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="form-label">PhoneNumber</label>
+            <input asp-for="PhoneNumber" class="form-control" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        
+        <div class="mt-4 pt-2">
+            <input data-mdb-ripple-init class="btn btn-primary btn-lg" type="submit" value="Edit" />
+        </div>
+    </form> 

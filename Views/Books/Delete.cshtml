@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Book>
+
+
+<div class="container p-4">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="p-4">All Books</h3>
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <form class="d-flex" asp-action="Delete">
+                <div class="input-group">
+                    <input name="searchString" class="form-control" type="text" placeholder="Search.." aria-label="Search">
+                    <button class="btn btn-dark" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6 text-end">
+            <a asp-action="GetAdminListView" class="btn btn-secondary">Back To Dashboard</a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 p-4">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Author</th>
+                        <th scope="col">Genre</th>
+                        <th scope="col">Statue</th>
+                       <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var book in Model)
+                    {
+                        <tr>
+                            <th scope="row">@book.BookId</th>
+                            <td>@book.Name</td>
+                            <td>@book.Author</td>
+                            <td>@book.genre</td>
+                            <td>@book.statue</td>
+                            <td>
+                                <div class="btn-group">                                   
+                                    <a asp-controller="Books"
+                                       asp-action="GetAlreadyDeleteView"
+                                       asp-route-Id="@book.BookId"
+                                       class="btn btn-danger" title="Delete">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+        </div>
+    </div>

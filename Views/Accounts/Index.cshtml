@@ -1,0 +1,185 @@
+﻿@* @using System.Globalization
+@model IEnumerable<Account>
+@if (Model.Count() > 0)
+{
+    <table class="table table-bordered table-hover caption-top">
+        <caption class="text-center">Accounts</caption>
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(acc => acc.Id)</th>
+                <th>@Html.DisplayNameFor(acc => acc.FirstName) </th>
+                <th> @Html.DisplayNameFor(acc => acc.LastName)</th>
+                <th> @Html.DisplayNameFor(acc => acc.Email) </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var account in Model)
+            {
+                <tr>
+                    <td>@account.Id</td>
+                    <td>@account.FirstName</td>
+                    <td>@account.LastName</td>
+                    <td>@account.Email</td>
+                    <td>
+                       <div class="btn-group">
+                            <a asp-controller="Accounts"
+                               asp-action="GetEditView"
+                               asp-route-Id="@account.Id"
+                               class="btn btn-primary" title="Edit">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>
+
+                            <a asp-controller="Accounts"
+                               asp-action="GetDeleteView"
+                                   asp-route-id="@account.Id"
+                               class="btn btn-danger" title="Delete">
+                                <i class="bi bi-trash"></i>                          
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>      
+    </table>
+}
+else
+{
+    <h1 class="alert alert-danger text-center">There is no data.</h1>
+} *@
+
+@model IEnumerable<Account>
+
+
+<div class="container p-4">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="p-4">All Accounts</h3>
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <form class="d-flex" asp-action="Index">
+                <div class="input-group">
+                    <input name="searchString" class="form-control" type="text" placeholder="Search.." aria-label="Search">
+                    <button class="btn btn-dark" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6 text-end">
+            <a asp-action="GetAccView" class="btn btn-secondary">Back To Full List</a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 p-4">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">First Name</a></th>
+                        <th scope="col">Last Name</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Phone Number</th>
+                        <th scope="col">Address</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var account in Model)
+                    {
+                        <tr>
+                            <th scope="row">@account.Id</th>
+                            <td>@account.FirstName</td>
+                            <td>@account.LastName</td>
+                            <td>@account.Email</td>
+                            <td>@account.PhoneNumber</td>
+                            <td>@account.Address</td>
+                            <td>
+                                <div class="btn-group">
+                                    <a asp-controller="Accounts"
+                                       asp-action="GetEditView"
+                                       asp-route-Id="@account.Id"
+                                       class="btn btn-primary" title="Edit">
+                                        <i class="fa-regular fa-pen-to-square"></i>
+                                    </a>
+
+                                    <a asp-controller="Accounts"
+                                       asp-action="GetDeleteView"
+                                       asp-route-id="@account.Id"
+                                       class="btn btn-danger" title="Delete">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+
+    @section scripts{
+        <script>
+            $(function () {
+                $("#basic-text1").click(function (){
+                    $("Form").submit();
+                })
+            });
+        </script>
+    }
+    @*Paging*@@* 
+    <div class="row">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+            <nav>
+                <ul class="pagination justify-content-end">
+                    <li class="page-item @(Model.PageIndex == 1 ? "disabled" : "")">
+                        <a class="page-link text-black" asp-route-pageNumber="1"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]">
+                            <span>First</span>
+                        </a>
+                    </li>
+
+                    <li class="page-item @(Model.HasPreviousPage ? "" : "disabled")">
+                        <a class="page-link text-black" asp-route-pageNumber="@(Model.PageIndex - 1)"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]">
+                            <span>Previous</span>
+                        </a>
+                    </li>
+
+                    @for (int i = 1; i <= Model.TotalPages; i++)
+                    {
+                        <li class="page-item @(Model.PageIndex == i ? "active" : "")">
+                            <a class="page-link text-black" asp-route-pageNumber="@i"
+                               asp-route-sortOrder="@ViewData["CurrentSort"]"
+                               asp-route-currentFilter="@ViewData["CurrentFilter"]">@i</a>
+                        </li>
+                    }
+
+                    <li class="page-item @(Model.HasNextPage ? "" : "disabled")">
+                        <a class="page-link text-black" asp-route-pageNumber="@(Model.PageIndex + 1)"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]">
+                            <span>Next</span>
+                        </a>
+                    </li>
+                    <li class="page-item @(Model.PageIndex == Model.TotalPages ? "disabled" : "")">
+                        <a class="page-link text-black" asp-route-pageNumber="@Model.TotalPages"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]">
+                            <span>Last</span>
+                        </a>
+                    </li>
+
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div> *@
